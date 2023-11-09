@@ -18,9 +18,10 @@ This is my first time using typst, please let me know if you spot something in t
 
 ## Example
 
-|                                                    Cover Letter                                                    |                                                    CV                                                    |
-| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Cover Letter](./assets/example-1.png) | ![CV](./assets/example-2.png) |
+| Cover Letter | Resume |
+| :---: | :---: |
+| ![CL](./assets/example-1.png) | ![CV](./assets/example-2.png) |
+
 
 ## TODO
 
