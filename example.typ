@@ -21,12 +21,12 @@
 
 #show: doc => init(doc, render_settings)
 
-#let cvdata = toml("./example.toml")
-#make_letter(cvdata)
+#let cv_data = toml("./example.toml")
+#make_letter(cv_data)
 
-#make_head(cvdata, render_settings)
+#make_head(cv_data, render_settings)
 
-#core.make_cv_core(cvdata)
+#core.make_cv_core(cv_data)
 #core.foot_note
 
 // This example uses a single data file
