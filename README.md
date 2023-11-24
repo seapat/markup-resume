@@ -31,6 +31,7 @@ This is my first time using typst, please let me know if you spot something in t
 - Support icons
 - Github actions to build the example
 - Add nix devshell
+- Use commandline args to provide data directly to the compiler, thus not needing to write any typst code. (commandline arguments are an upcoming/planned feature)
 
 ## Credit
 
