@@ -33,7 +33,9 @@ This is my first time using typst, please let me know if you spot something in t
     - [example1](https://github.com/duskmoon314/typst-fontawesome), [example2](https://github.com/Bi0T1N/typst-social), [example3](https://github.com/duskmoon314/typst-fontawesome)
 - Github actions to build the example
 - Add nix devshell
-- Use commandline args to provide data directly to the compiler, thus not needing to write any typst code. (commandline arguments are an upcoming/planned feature)
+- Use commandline args to provide data directly to the compiler
+    - alleviate the need to write own typst code by providing an universal `main.typ` that takes one or more files as input
+    - commandline arguments are an upcoming/planned feature
 
 ## Credit
 
